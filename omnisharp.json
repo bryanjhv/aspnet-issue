@@ -1,0 +1,19 @@
+{
+  "FormattingOptions": {
+    "EnableEditorConfigSupport": true,
+    "OrganizeImports": true
+  },
+  "ImplementTypeOptions": {
+    "PropertyGenerationBehavior": "PreferAutoProperties"
+  },
+  "RenameOptions": {
+    "RenameInComments": true,
+    "RenameInStrings": true,
+    "RenameOverloads": true
+  },
+  "RoslynExtensionsOptions": {
+    "EnableAnalyzersSupport": true,
+    "EnableDecompilationSupport": true,
+    "EnableImportCompletion": true
+  }
+}
